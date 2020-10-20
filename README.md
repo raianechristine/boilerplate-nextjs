@@ -1,3 +1,5 @@
+## Next.js
+
 [Next.js](https://nextjs.org/) boilerplate [React Avançado](https://reactavancado.com.br/).
 ![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
 
@@ -23,7 +25,7 @@ npm run dev
 # or
 yarn dev
 ```
-Abra [http: // localhost: 3000] (http: // localhost: 3000) em seu navegador para ver o resultado.
+Abra [http://localhost:3000](http://localhost:3000) em seu navegador para ver o resultado.
 
 
 Você pode começar a editar a página modificando `pages / index.js`. A página é atualizada automaticamente conforme você edita o arquivo.
